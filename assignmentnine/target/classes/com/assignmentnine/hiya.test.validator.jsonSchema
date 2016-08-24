@@ -1,0 +1,15 @@
+{
+	"$patch": "resource://classpath/com/assignmentnine/hiya.configuration.validator.jsonSchema",
+	"$with":
+	{
+		"properties":
+		{
+			"option":
+			{
+				"type": "string"
+			}
+		},
+		"required": ["option"],
+		"additionalProperties": false
+	}
+}

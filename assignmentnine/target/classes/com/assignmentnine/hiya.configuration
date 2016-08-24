@@ -1,0 +1,7 @@
+{
+	features: {
+		hi: {
+			useful-module: 'stuff'
+		}
+	}
+}
